@@ -1,1 +1,1 @@
-# CIT 171 This is my git repository for class
+# CIT 171 This is my git repository for classes
